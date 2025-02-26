@@ -33,20 +33,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=CauePontes&theme=dark&hide_border=true&background=EB545400&sideNums=EBEBEB&sideLabels=EBEBEB&ring=346FFF&fire=346FFF&dates=EBEBEB&currStreakLabel=346FFF" alt="GitHub Streak" />
   </a>
 </p>
-  
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: cauepontesvirgens@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/CauePontes)
-
-</p>
 
 <br/>
 
