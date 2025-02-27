@@ -59,10 +59,5 @@
 ![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)
 
 <br/>
-
-## Top Open Source -
-[![Caue Pontes Readme](https://github-readme-stats.vercel.app/api/pin/?username=CauePontes&repo=CauePontes&border_color=346FFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=346FFF)](https://github.com/CauePontes)
-
-<br/>
 <hr/>
 <br/>
