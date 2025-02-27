@@ -59,5 +59,3 @@
 ![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)
 
 <br/>
-<hr/>
-<br/>
