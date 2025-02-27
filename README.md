@@ -1,4 +1,3 @@
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -26,6 +25,8 @@
 </p>
 <br />
 
+
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=CauePontes&theme=dark&hide_border=true&background=EB545400&sideNums=EBEBEB&sideLabels=EBEBEB&ring=346FFF&fire=346FFF&dates=EBEBEB&currStreakLabel=346FFF" alt="GitHub Streak" />
@@ -33,7 +34,9 @@
 </p>
 
 <br/>
+
 ## Use To Code
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -54,4 +57,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=white)
 
+<br/>
+<hr/>
 <br/>
